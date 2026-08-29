@@ -1,0 +1,70 @@
+about:
+  description: A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java 
+  license: MIT
+  homepage: https://docs.ccxt.com
+  head: 387290f
+  archived: false
+  latestVersion: v4.5.76
+  collectedAt: 2026-08-29T07:12:12Z
+timeline:
+  created: 2017-05-14
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-26
+popularity:
+  star: 43788
+  watcher: 945
+  fork: 8816
+  release: 250
+  contributor: 775
+  pullRequest: 2725
+  issue: 11553
+language:
+  Python: 36790947
+  C#: 27515574
+  Go: 25668165
+  TypeScript: 25394716
+  Java: 21425928
+  PHP: 18167057
+  JavaScript: 725766
+  C: 64542
+  Shell: 60708
+  Cython: 33830
+  C++: 21527
+  Handlebars: 5411
+  HTML: 3987
+  Dockerfile: 2492
+  Batchfile: 513
+totalLine: 155881163
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 6
+    mergedPR: 526
+    openPR: 111
+    closedIssue: 40
+    openIssue: 25
+    commit: 1782
+  last90d:
+    since: 2026-05-31
+    release: 20
+    mergedPR: 1012
+    openPR: 140
+    closedIssue: 103
+    openIssue: 30
+    commit: 3747
+  last180d:
+    since: 2026-03-02
+    release: 36
+    mergedPR: 1474
+    openPR: 168
+    closedIssue: 212
+    openIssue: 47
+    commit: 5581
+  last360d:
+    since: 2025-09-03
+    release: 74
+    mergedPR: 2244
+    openPR: 219
+    closedIssue: 553
+    openIssue: 66
+    commit: 9164
